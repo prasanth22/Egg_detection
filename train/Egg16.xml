@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images1</folder>
+	<filename>Egg16.jpg</filename>
+	<path>D:\python\egg_detection-master\images1\Egg16.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>565</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Egg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>112</xmin>
+			<ymin>48</ymin>
+			<xmax>709</xmax>
+			<ymax>489</ymax>
+		</bndbox>
+	</object>
+</annotation>
